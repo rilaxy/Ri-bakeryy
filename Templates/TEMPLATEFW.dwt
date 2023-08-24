@@ -1,0 +1,119 @@
+<!doctype html>
+<html>
+<head>
+
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Ri Bakery</title>
+
+
+	
+
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,200&family=Roboto&display=swap" rel="stylesheet">
+	
+	<link rel="stylesheet" href="../CSS/main-style.css">
+	<link rel="stylesheet" href="../CSS/thu-vien.css">
+	<link rel="stylesheet" href="../dist/assets/owl.carousel.css">
+	<link rel="stylesheet" href="../dist/assets/owl.theme.default.css">
+    <!-- TemplateBeginEditable name="head" -->
+    <!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<div class="backtoTop"> <i class="fa fa-angle-up fa-3x"></i></div>
+	<div class="bg-primary text-light top-bar">
+		<div class="container">
+			<div class="row">
+				<div class="col-6">
+					<div class="text-secondar">
+					<i class="fa fa-phone"></i> 0813811556
+					<i class="fa fa-envelope"></i> Ribakery@.com.vn</div>
+			  </div>
+				<div class="col-6 text-right">
+					<i class="fa fa-facebook"></i>
+					<i class="fa fa-youtube-play"></i>
+					<i class="fa fa-twitter"></i>
+					<i class="fa fa-instagram"></i>
+				</div>
+			</div>
+	  </div>
+</div>
+	<nav class="navbar">
+		<div class="container">
+		<a href="../index.html"> <img src="../IMG/tải xuống.png" alt="logo" width="100"></a>
+			<div class="menu">
+				<ul>
+					<li><a href="../index.html">Trang chủ</a></li>
+					<li><a href="../GIỚI THIỆU.html">Giới thiệu</a></li>
+					<li>	<a href="../SẢN PHẨM.html">Sản Phẩm</a>		
+						<ul>
+							<li><a href="#">Bánh mặn</a></li>
+							<li><a href="#">Bánh mì</a></li>
+							<li><a href="#">Bánh bao</a></li>
+							<li><a href="#">Bánh kem</a></li>
+							<li><a href="#">Bánh ngọt</a></li>
+							<li><a href="#">Bánh mì gối</a></li>
+						</ul>
+					</li>									
+					
+				
+					<li><a href="../TIN TỨC SỰ KIỆN.html">Tin tức - Sự kiện</a></li>
+					<li><a href="../LIÊN HỆ.html">Liên hệ</a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+		<main width="500px"><!-- TemplateBeginEditable name="TEMPLATE.FW" -->TEMPLATE.FW<!-- TemplateEndEditable -->
+    </main>
+	
+	
+	<footer>
+	<div class="bg-secondary text-primary">
+			<div class="container">
+				<div class="row">
+					<div class="col-4">
+					
+
+<h3>Hỗ Trợ</h3>
+<p>Giao Hàng Tận Nơi <br>
+Hướng Dẫn Mua Hàng <br>
+Phương Thức Thanh Toán <br>
+Phương Thức Giao Hàng</p>					
+					</div>
+					<div class="col-4">
+						<h3>Cơ sở sản xuất bánh ngọt Ri bakery</h3>
+						<div class="menu-footer">
+
+                          <p><i class="fa fa-map-marker"></i> Trụ sở: Hòa Vang – TP Đà Nẵng</p>
+							<p><i class="fa fa-phone "></i>Hotline: 0931 60 20 60 </p>
+                          <p><i class="fa fa-envelope-open"></i>Email: Ribakery@.com.vn</p>
+
+                          
+                        </div>
+					
+					</div>
+				  <div class="col-4">
+						<h3>Thời gian mở cửa</h3>
+						<p>THỨ 2-THỨ 7<br>							8.00 am - 5.00 pm</p>
+						<p>CHỦ NHẬT<br>10.00 am - 5.00 pm</p></div>
+			  </div>
+				
+				
+				
+	  </div>
+	  </div>
+
+<!--het phan 1 màu nâu của footer-->
+	  <div class="bg-primary text-center">Copyright © 2022 Ri Bakery. All Rights Reserved..</div>
+	
+	<script src="../dist/jquery-3.6.0.min.js"></script>
+	<script src="../dist/owl.carousel.js"></script>
+	<script src="../dist/custom.js"></script>
+</footer>
+	
+</body>
+</html>
